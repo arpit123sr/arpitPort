@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.white{
+    background-color: white;
+}
