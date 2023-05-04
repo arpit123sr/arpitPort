@@ -1,0 +1,47 @@
+body{
+    background-color:aliceblue;
+    text-align: center;
+    color: white;
+}
+.container{
+    width: 100px;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.white{
+    background-color: white;
+}
